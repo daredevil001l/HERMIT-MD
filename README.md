@@ -20,9 +20,9 @@
 
 ## `SETTINGS`
 
-- CHANGE OWNER NUMBER [Here](https://github.com/HERMIT-SIR/HERMIT-SER-MD/blob/master/config/config.js)
-- CHANGE OWNER NAME [Here](https://github.com/HERMIT-SIR/HERMIT-SER-MD/blob/master/config/config.js)
-- CHANGE BOT NAME [Here](https://github.com/HERMIT-SIR/HERMIT-SER-MD/blob/master/config/config.js)
+- CHANGE OWNER NUMBER [Here](https://github.com/HERMIT-SIR/HERMIT-SER-MD/blob/master/config.js)
+- CHANGE OWNER NAME [Here](https://github.com/HERMIT-SIR/HERMIT-SER-MD/blob/master/config.js)
+- CHANGE BOT NAME [Here](https://github.com/HERMIT-SIR/HERMIT-SER-MD/blob/master/config.js)
 
 ## ` BUILDPACKS`
 
