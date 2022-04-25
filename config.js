@@ -1,33 +1,21 @@
-//═══════[© 2022 Xeon Bot Inc.]════════\\
-
-//~you can re-upload but tag my channel
-//or put my channel link in the description.
-//~you can recode or copy the codes but give
-//credit.
-//~Thank you to LORD BUDDHA, ME AND MY 
-//FAMILY.
-
-//═══════[modules]════════\\
-
 const fs = require('fs')
 const chalk = require('chalk')
 
 //═══════[api website]════════\\
 global.APIs = {
-	zenz: 'https://zenzapi.xyz', //credit zenz, thank you so much bro <3
-}
+	zenz: 'https://zenzapi.xyz',
 //═══════[api key of the website]════════\\
 global.APIKeys = {
 	'https://zenzapi.xyz': '805a6c3fa9', //thank you to zenz
 }
 
 //═══════[modification]════════\\
-global.owner = ['916909137213','6283839980451'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
-global.pemilik = ['916909137213'] //another owner number
-global.premium = ['916909137213'] //premium number
-global.pengguna = 'Xeon' //username
-global.botnma = 'Cheems Bot-MD' //bot name
-global.ownernma = '🦄Dream Guy Xeon' //owner name
+global.owner = ['9169091337737213','628383997374780451']
+global.pemilik = ['912269091646437213'] //another owner number
+global.premium = ['91663639091939337213'] //premium number
+global.pengguna = 'hehon' //username
+global.botnma = 'hehe Bot-MD' //bot name
+global.ownernma = 'endi Guy heeon' //owner name
 global.packname = 'Cheems Bot' //sticker package name
 global.author = 'By Dream Guy Xeon' //sticker author name
 global.sessionName = 'session' //session name
