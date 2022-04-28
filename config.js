@@ -10,12 +10,12 @@ global.APIKeys = {
 }
 
 //═══════[modification]════════\\
-global.owner = ['9169091337737213','628383997374780451']
+global.owner = ['919667141874','628383997374780451']
 global.pemilik = ['912269091646437213'] //another owner number
 global.premium = ['91663639091939337213'] //premium number
 global.pengguna = 'hehon' //username
-global.botnma = 'hehe Bot-MD' //bot name
-global.ownernma = 'endi Guy heeon' //owner name
+global.botnma = 'Mr. beast' //bot name
+global.ownernma = 'mr. unknown ' //owner name
 global.packname = 'Cheems Bot' //sticker package name
 global.author = 'By Dream Guy Xeon' //sticker author name
 global.sessionName = 'session' //session name
